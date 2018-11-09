@@ -1,4 +1,4 @@
-# An Algorithm For Flaging Fake News
+# An Algo For Realtime Fake News Flaging
 
 
 
