@@ -1,5 +1,6 @@
 # An Algo For Realtime Fake News Flaging
-
+![CLI View](images/terminal.png)
+![Web View](images/web.png)
 
 
 ### By :
