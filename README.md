@@ -1,6 +1,5 @@
 # An Algo For Realtime Fake News Flaging
-![Verified Post](images/bbc.png)
-![unverified Post](images/fake.png)
+
 
 
 ### By :
