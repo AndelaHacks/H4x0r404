@@ -1,4 +1,4 @@
-# An Algo For Realtime Fake News Flaging
+# Real-Time Fake News Flagging
 ![CLI View](images/terminal.png)
 ![Web View](images/web.png)
 
