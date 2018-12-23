@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/numpy-1.7.0-blue.svg)
 ![](https://img.shields.io/badge/flask-1.0.2-ff69b4.svg)
 [![](https://img.shields.io/bundlephobia/min/react.svg)](https://github.com/AndelaHacks/H4x0r404)
+![](https://badgen.net/badge/code%20style/standard/f2a)
 ![](https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86/green)
 # Real-Time Fake News Flagging
 ![CLI View](images/terminal.png)
